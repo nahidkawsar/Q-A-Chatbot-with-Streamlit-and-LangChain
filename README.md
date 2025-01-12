@@ -1,4 +1,5 @@
 # Q&A Chatbot with Streamlit and LangChain
+![chatbot](https://github.com/user-attachments/assets/ea4cf04f-f78e-47cf-b793-7634155aff33)
 
 This project is a simple Q&A chatbot built using Streamlit, LangChain, and various language models like Groq and OpenAI's GPT. The chatbot mimics the speaking style of selected personalities to provide a humorous and engaging experience.
 
